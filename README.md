@@ -1,4 +1,20 @@
 ### Hi there 👋
+###### 😄 Pronouns: she/her
+
+### 🔭 I’m currently working through Flatiron School's emersive software engineering program
+
+### 🌱 I’m currently learning 
+-Javascript 
+-ReactJS 
+##### Up next:
+-Python
+-Flask
+
+### 💬 Ask me about ...
+
+### 📫 How to reach me: ...
+
+
 
 <!--
 **gabygalv/gabygalv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
