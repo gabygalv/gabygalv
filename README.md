@@ -13,7 +13,7 @@
 - https://dev.to/gabygalv
 
 
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabygalv&show_icons=true&locale=en" alt="gabygalv" /></span>
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabygalv&show_icons=true&locale=entheme=tokyonight" alt="gabygalv" /></span>
 
 <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabygalv&" alt="gabygalv" /></span>
 
