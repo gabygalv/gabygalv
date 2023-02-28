@@ -4,7 +4,6 @@
 ### 🔭 I’m currently working through Flatiron School's emersive software engineering program
 
 ### 🌱 I’m currently learning 
--Javascript 
 -ReactJS 
 ##### Up next:
 -Python
@@ -15,6 +14,9 @@
 ### 📫 How to reach me: ...
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabygalv&show_icons=true&locale=en" alt="gabygalv" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabygalv&" alt="gabygalv" /></p>
 
 <!--
 **gabygalv/gabygalv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
