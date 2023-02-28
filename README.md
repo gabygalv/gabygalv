@@ -1,22 +1,21 @@
-### Hi there 👋
-###### 😄 Pronouns: she/her
+### Hi there, I'm Gaby 👋
+###### Pronouns: she/her
 
 ### 🔭 I’m currently working through Flatiron School's emersive software engineering program
 
-### 🌱 I’m currently learning 
+### 🌱 Currently learning 
 -ReactJS 
 ##### Up next:
 -Python
 -Flask
 
-### 💬 Ask me about ...
+### 💬 Check out my blogs:
+- https://dev.to/gabygalv
 
-### 📫 How to reach me: ...
 
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabygalv&show_icons=true&locale=en" alt="gabygalv" /></span>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabygalv&show_icons=true&locale=en" alt="gabygalv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabygalv&" alt="gabygalv" /></p>
+<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabygalv&" alt="gabygalv" /></span>
 
 <!--
 **gabygalv/gabygalv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
