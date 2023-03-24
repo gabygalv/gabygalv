@@ -4,8 +4,8 @@ I’m currently working through Flatiron School's emersive software engineering 
 
 ### Connect with me:
 
-[<img align="left" width="22" alt="GabyGalv on YouTube" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/dev_to.svg">][https://dev.to/gabygalv]
-[<img align="left" width="22" alt="GabyGalv on Discord" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg">][https://discord.com/users/gaby.galv#3484]
+[<img align="left" width="22" alt="GabyGalv on YouTube" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/dev_to.svg">](https://dev.to/gabygalv)
+[<img align="left" width="22" alt="GabyGalv on Discord" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg">](https://discord.com/users/gaby.galv#3484)
 [<img align="left" width="22" alt="GabyGalv on LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://linkedin.com/in/gaby-galvan)
 <br>
 
