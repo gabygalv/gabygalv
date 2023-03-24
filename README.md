@@ -1,33 +1,23 @@
-### Hi there, I'm Gaby 👋
-###### Pronouns: she/her
+# Hi there, I'm Gaby Galvan
 
-### 🔭 I’m currently working through Flatiron School's emersive software engineering program
+I’m currently working through Flatiron School's emersive software engineering program
 
-### 🌱 Currently learning 
--ReactJS 
-##### Up next:
--Python
--Flask
+### Connect with me:
 
-### 💬 Check out my blogs:
-- https://dev.to/gabygalv
+[<img align="left" width="22" alt="GabyGalv on YouTube" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/dev_to.svg">][https://dev.to/gabygalv]
+[<img align="left" width="22" alt="GabyGalv on Discord" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg">][https://discord.com/users/gaby.galv#3484]
+[<img align="left" width="22" alt="GabyGalv on LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://linkedin.com/in/gaby-galvan)
+<br>
 
+### Languages and Tools:
 
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabygalv&show_icons=true&locale=en" alt="gabygalv" />
+![Languages and Tools](https://skillicons.dev/icons?i=js,html,css,bootstrap,flask,postman,py,react,vscode)
+<br>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabygalv&" alt="gabygalv" /></span>
+---
 
-<!--
-**gabygalv/gabygalv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="https://github.com/gabygalv"><img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=gabygalv&theme=dracula&show_icons=true&hide_border=true"></a>
+    <a href="https://github.com/gabygalv"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=gabygalv&theme=dracula&hide_border=true"></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
