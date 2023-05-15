@@ -1,6 +1,6 @@
 # Hi there, I'm Gaby Galvan
 
-I’m currently working through Flatiron School's emersive software engineering program
+I recently completed Flatiron School's emersive software engineering program
 
 ### Connect with me:
 
